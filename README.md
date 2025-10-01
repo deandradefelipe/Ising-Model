@@ -17,8 +17,7 @@ Projeto acadêmico (Física Computacional) que implementa e explora o **modelo d
 ```
 .
 ├── Ising_Model.ipynb       # Notebook principal (simulação + análise)
-├── README.md               # Este arquivo
-└── figures/                # (gerado na execução) gráficos salvos automaticamente
+└── README.md               # Este arquivo
 ```
 
 ---
